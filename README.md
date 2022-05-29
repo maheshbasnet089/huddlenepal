@@ -68,7 +68,7 @@ Working 💼 [**`@Huddle Nepal`**](https://www.huddlenepal.com/) .
  
 Let's connect 👨‍💻 and forge the future together. 😁✌ 
 
-**Check the Repositories and don't forget to give a star.** 👇
+**Check the Repositories and don't forget to give a star** 👇
 
 <!-- 
 Want to give some Credit. Simply uncomment the next line
