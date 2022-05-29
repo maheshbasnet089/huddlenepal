@@ -13,7 +13,7 @@ Working 💼 [**`@Huddle Nepal`**](https://www.huddlenepal.com/) .
 🤓 We have a keen interest in 🤝 collaborating with others and empowering others to build digital solutions that solve real-world 🌍 problems. We are a **`Design Thinking facilitator`** and a **`Creative Technologist`** who believes that the merger between Design Thinking and Digital Technologies will lead to the building of user-centered solutions that are impactful toward the betterment of society.
 
  
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about us... 
 
 - 🔭 I’m love exploring🔭 the world🌍 inside the computer💻.
 - 👯 I’m looking to collaborate on crafting awesome platform **Huddle Nepal🤝**.
@@ -26,35 +26,7 @@ Working 💼 [**`@Huddle Nepal`**](https://www.huddlenepal.com/) .
  <a href="https://www.buymeacoffee.com/saugatrimal"> <img width="160" src="https://img.shields.io/badge/-%E2%98%95%20Buy%20me%20a%20coffee-fd0?style=flat"> </a>
  
      
-
 <br>
-
----
-
-
-### Tech & Tools Preference
-
-
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3&logoColor=1572B6)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=Bootstrap)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-![Typescript](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Typescript&logoColor=5df58b)
-![JQuery](https://img.shields.io/badge/-JQuery-black?style=for-the-badge&logo=jquery&logoColor=3178C6)
-![C & C++](https://img.shields.io/badge/-C%20&%20C++-black?style=for-the-badge&logo=C%20&%20C++)
-![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git)    
-![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=Linux&logoColor=FCC624)
-![VsCode](https://img.shields.io/badge/-VS%20Code-black?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Heroku](https://img.shields.io/badge/-Heroku-black?style=for-the-badge&logo=Heroku&logoColor=1572B6)
-![Gitkraken](https://img.shields.io/badge/-Gitkraken-black?style=for-the-badge&logo=gitkraken)
-![Sentry](https://img.shields.io/badge/-Sentry-black?style=for-the-badge&logo=sentry)
-![Netlify](https://img.shields.io/badge/-netlify-black?style=for-the-badge&logo=netlify)
-![Gatsby](https://img.shields.io/badge/-gatsby-black?style=for-the-badge&logo=gatsby)
-![Vercel](https://img.shields.io/badge/-Vercel-black?style=for-the-badge&logo=vercel)
-![Wordpress](https://img.shields.io/badge/-Wordpress-black?style=for-the-badge&logo=wordpress)
-![Woocommerce](https://img.shields.io/badge/-woocommerce-black?style=for-the-badge&logo=woocommerce)
-![Ghost](https://img.shields.io/badge/-ghost-black?style=for-the-badge&logo=ghost)
-
 
 ---
 
