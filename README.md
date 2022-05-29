@@ -2,7 +2,7 @@
 <h2> Hi, we are <a href="https://huddlenepal.com">Huddle Nepal</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
 <br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saugat-rimal&label=Profile Views&color=blue&style=plastic" alt="saugat-rimal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=huddlenepal&label=Profile Views&color=blue&style=plastic" alt="saugat-rimal" /> </p>
 
 Hi, I'm Saugat Rimal,👨‍💻  <a href="https://saugatrimal.com.np">**`Web Designer`**</a> who is exploring Frontend Development while facilitating the world🌍 with User Experience with my Design Thinking Skills 🧐 and Enthusiast about Cyber.  I have always loved creating something out of nothing.😉
 
