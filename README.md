@@ -2,26 +2,26 @@
 <h2> Hi, we are <a href="https://huddlenepal.com">Huddle Nepal</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
 <br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=huddlenepal&label=Profile Views&color=blue&style=plastic" alt="saugat-rimal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=huddlenepal&label=Profile Views&color=blue&style=plastic" alt="huddlenepal" /> </p>
 
-Hi, I'm Saugat Rimal,👨‍💻  <a href="https://saugatrimal.com.np">**`Web Designer`**</a> who is exploring Frontend Development while facilitating the world🌍 with User Experience with my Design Thinking Skills 🧐 and Enthusiast about Cyber.  I have always loved creating something out of nothing.😉
 
-Working 💼 [**`@Swivt Technologies`**](https://www.goswivt.com/) as a Junior Wordpress Developer.
+We are **`Nepal-based promotion platform`** for huddles, exhibitions, meetings, events, and bootcamps fairs offering ways for launching and sharing events information on the web🌍.
 
-🤓 I have a keen interest in 🤝 collaborating with others and empowering others to build digital solutions that solve real-world 🌍 problems. I'm also a **`Design Thinking facilitator`** and a **`Creative Technologist`** who believes that the merger between Design Thinking and Digital Technologies will lead to the building of user-centered solutions that are impactful toward the betterment of society.
+
+Working 💼 [**`@Huddle Nepal`**](https://www.huddlenepal.com/) .
+
+🤓 We have a keen interest in 🤝 collaborating with others and empowering others to build digital solutions that solve real-world 🌍 problems. We are a **`Design Thinking facilitator`** and a **`Creative Technologist`** who believes that the merger between Design Thinking and Digital Technologies will lead to the building of user-centered solutions that are impactful toward the betterment of society.
 
 <img align="right" alt="GIF" width="450px"  src="https://user-images.githubusercontent.com/77529535/104816402-097a5f80-5843-11eb-9d83-deadb3bb212c.gif?raw=true" />
  
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 
 - 🔭 I’m love exploring🔭 the world🌍 inside the computer💻.
-- 🌱 I’m currently learning **Frontend Development📝** & **Cyber Security**👨‍💻.
-- 👯 I’m looking to collaborate on crafting great **web experiences🤝**.
-- 🤔 I’m looking for help with my **Front-End Designing🤙**.
+- 👯 I’m looking to collaborate on crafting awesome platform **Huddle Nepal🤝**.
+- 🤔 I’m looking for help with my **Backend Works🤙**.
 - 💬 Ask me about anything, I am happy😁 to help👯. 
-- 😄 Nickname: Dark Demon 🏴‍☠️
 - ⚡ Fun fact: I love building🧱 and occasionally **designing✍️** exceptional **digital experiences**.
-- 📝 Writings: [You can checkout✔️ some of my awesome🥳 blogs](https://diary.saugatrimal.com.np/)
+- 📝 Writings: [You can checkout✔️ some of my awesome🥳 blogs](https://blogs.huddlenepal.com/)
 - ☕ 👇 We can have coffee too 😄
  
  <a href="https://www.buymeacoffee.com/saugatrimal"> <img width="160" src="https://img.shields.io/badge/-%E2%98%95%20Buy%20me%20a%20coffee-fd0?style=flat"> </a>
