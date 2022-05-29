@@ -78,7 +78,7 @@ Working 💼 [**`@Huddle Nepal`**](https://www.huddlenepal.com/) .
 
 ### You can find in me in the web 🌍
 
-[![Twitter: huddlenepal](https://img.shields.io/twitter/follow/saugatrimal60?style=social)](https://twitter.com/huddlenepal)
+[![Twitter: huddlenepal](https://img.shields.io/twitter/follow/huddlenepal?style=social)](https://twitter.com/huddlenepal)
 [![Blog](https://img.shields.io/badge/-hashnode-darkblue?style=flat&logo=hashnode&logoColor=white)](https://blog.huddlenepal.com/)
 [![Instagram](http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/huddlenepal/)
 [![Linkedin: huddlenepal](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saugatrimal/)](https://www.linkedin.com/in/saugatrimal/)
@@ -86,9 +86,7 @@ Working 💼 [**`@Huddle Nepal`**](https://www.huddlenepal.com/) .
 [![GitHub huddlenepal](https://img.shields.io/github/followers/saugat-rimal?label=follow&style=social)](https://github.com/huddlenepal)
 [![Website](http://img.shields.io/badge/-Portfolio%20Website-ffffff?style=flat&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8%2F9hAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAAdgAAAHYBTnsmCAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAEYSURBVDiNxdHNK4RRFMfxzzMzhVJeirKwIZKVyG4WY22nrCwoG%2FkHbGYzO%2FkfLKysZSHFgmxtKCJkNTLEyEtZTGPx3KnpaWSS8q3bOffcc37ndC7%2FTYRldKKCdMJ%2Bxwbm8QJ57GMOV5jFaRD5iXyEHZzjCb24D7bYhEAugwOsNpHciCiNa7wlHiYTE%2FSggHEM4CTEsynxMmAME8GfRg6D4f6Kh%2BDf1HdKBTsaio4xhAscYhH96K4Ty2IF64hqAo%2FoQitmsIV2tKCMEs7QFk4ae6jWBEpYwzAy%2BAh%2BIYzfh6nQoBUj2BSUsjjCe5jkUrzUIj7rdvAs%2Fuo7bIu%2F%2BzYTOtaohIQkVew2iC9EWEJHg8dmKP%2By7g%2F5Ahl%2FO9wcY8OAAAAAAElFTkSuQmCC&logoColor=white)](https://huddlenepal.com/)
 [![Facebook](https://img.shields.io/badge/-Facebook-2962ff?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/saugatrimal.pro/)](https://www.facebook.com/huddlenepal/)
-[![Community](https://img.shields.io/badge/-codepen-black?style=flat&logo=codepen&logoColor=white&link=https://codepen.io/saugatrimal)]([https://codepen.io/saugatrimal](https://www.facebook.com/groups/huddlenepal)
-
-
+[![Community](https://img.shields.io/badge/-Community-2962ff?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/huddlenepal/)](https://www.facebook.com/groups/huddlenepal)
 
 ---
 
