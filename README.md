@@ -1,4 +1,4 @@
-<h2> test, we are <a href="https://huddlenepal.com">Huddle Nepal</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+<h2> Hi, we are <a href="https://huddlenepal.com">Huddle Nepal</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huddlenepal&label=Profile Views&color=blue&style=plastic" alt="huddlenepal" /> </p>
