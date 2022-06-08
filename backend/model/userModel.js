@@ -1,6 +1,9 @@
 const mongoose = require("mongoose");
-const Schema = mongoose.Schema;
 const bcrypt = require("bcryptjs");
+const validator = require("validator");
+const { randomBytes, createHash } = require("crypto");
+
+const Schema = mongoose.Schema;
 
 const userSchema = new Schema({
   name: {
@@ -12,6 +15,7 @@ const userSchema = new Schema({
     required: [true, " A user must have an email"],
     lowercase: true,
     unique: true,
+    validate: [validator.isEmail, "Please provide correct Email"],
   },
   avatar: {
     type: String,
@@ -36,6 +40,13 @@ const userSchema = new Schema({
   passwordConfirm: {
     type: String,
     required: [true, "Please confirm your password"],
+    validate: {
+      //only works on create and save
+      validator: function (el) {
+        return el == this.password;
+      },
+      message: "Password are not Same ",
+    },
   },
   passwordChangedAt: Date,
   passwordResetToken: String,
@@ -50,12 +61,15 @@ userSchema.pre("save", async function (next) {
   next();
 });
 
+//compare password
 userSchema.methods.comparePassword = async function (
   candidatePassword, // req.body.password provided by user
   userPassword //hashed password stored in the database
 ) {
   return await bcrypt.compare(candidatePassword, userPassword); //returns true or false only
 };
+
+//checks if password is changed or not
 
 userSchema.methods.passwordChangedAfter = function (tokenCreatedDate) {
   if (this.passwordChangedAt) {
@@ -64,4 +78,14 @@ userSchema.methods.passwordChangedAfter = function (tokenCreatedDate) {
   }
   return false; // if no password was changed at all
 };
+//create Reset Token for forgot password
+userSchema.methods.createResetToken = function () {
+  const resetToken = randomBytes(32).toString("hex");
+  this.passwordResetToken = createHash("sha256")
+    .update(resetToken)
+    .digest("hex");
+  this.passwordResetTokenExpiresIn = Date.now() + 10 * 60 * 1000;
+  return resetToken;
+};
+
 module.exports = mongoose.model("User", userSchema);
